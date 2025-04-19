@@ -94,15 +94,15 @@ Frontend Developer & UI Lover ✨
 
 ### 🏠 Home Page
 
-<img src="./Screenshot/home.png" alt="Home Page" width="700"/>
+<img src="./Screenshots/home.png" alt="Home Page" width="700"/>
 
 ### 🔐 Login Page
 
-<img src="./Screenshot/login.png" alt="Login Page" width="700"/>
+<img src="./Screenshots/login.png" alt="Login Page" width="700"/>
 
 ### 🚐 Vans Listing
 
-<img src="./Screenshot/vans.png" alt="Vans Page" width="700"/>
+<img src="./Screenshots/vans.png" alt="Vans Page" width="700"/>
 
 ### 📄 Van Detail Page
 
