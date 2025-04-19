@@ -20,7 +20,31 @@ This template includes login flow, host dashboard, van listings, and clean routi
 
 ---
 
-## 📁 Folder Structure
+## 🔍 App Preview
+
+### 🏠 Home Page
+
+<img src="./Screenshots/home.png" alt="Home Page" width="700"/>
+
+### 🔐 Login Page
+
+<img src="./Screenshots/login.png" alt="Login Page" width="700"/>
+
+### 🚐 Vans Listing
+
+<img src="./Screenshots/vans.png" alt="Vans Page" width="700"/>
+
+### 📄 Van Detail Page
+
+<img src="./Screenshots/vans_detail.png" alt="Van Detail Page" width="700"/>
+
+### 🧭 Explore Page
+
+<img src="./Screenshots/explore.png" alt="Explore Page" width="700"/>
+
+### 🖼️ UI Highlight
+
+<img src="./Screenshots/image1.png" alt="Design Showcase" width="700"/>
 
 ````
 
@@ -89,29 +113,3 @@ Frontend Developer & UI Lover ✨
 ---
 
 > 💡 “This template is a great starting point — design meets functionality, just waiting for your backend magic.”
-
-## 🔍 App Preview
-
-### 🏠 Home Page
-
-<img src="./Screenshots/home.png" alt="Home Page" width="700"/>
-
-### 🔐 Login Page
-
-<img src="./Screenshots/login.png" alt="Login Page" width="700"/>
-
-### 🚐 Vans Listing
-
-<img src="./Screenshots/vans.png" alt="Vans Page" width="700"/>
-
-### 📄 Van Detail Page
-
-<img src="./Screenshots/vans_detail.png" alt="Van Detail Page" width="700"/>
-
-### 🧭 Explore Page
-
-<img src="./Screenshots/explore.png" alt="Explore Page" width="700"/>
-
-### 🖼️ UI Highlight
-
-<img src="./Screenshot/image1.png" alt="Design Showcase" width="700"/>
