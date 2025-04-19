@@ -20,14 +20,10 @@ This template includes login flow, host dashboard, van listings, and clean routi
 
 ---
 
-![Van Rental App Screenshot](./Screenshot/home.png)
-![Live Preview](./Screenshot/home.png)
+## 📁 Folder Structure
 
-![Van Rental App Screenshot](./Screenshot/login.png)
-![Van Rental App Screenshot](./Screenshot/vans.png)
-![Van Rental App Screenshot](./Screenshot/vans_detail.png)
-![Van Rental App Screenshot](./Screenshot/explore.png)
-![Van Rental App Screenshot](./Screenshot/image1.png)
+````
+
 
 ## 🧰 Tech Stack
 
@@ -35,7 +31,7 @@ This template includes login flow, host dashboard, van listings, and clean routi
 - **React Router**
 - **CSS / Tailwind / Styled Components**
 - **LocalStorage / Mock Data**
-- _I use Morage.js package to simulate a serve.(No database or backend APIs included)_
+- *(No database or backend APIs included)*
 
 ---
 
@@ -44,9 +40,78 @@ This template includes login flow, host dashboard, van listings, and clean routi
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/Eyob-smax/VanRentalApp-React-Template.git
-
+https://github.com/Eyob-smax/VanRentalApp-React-Template.git
 cd VanRent-Template
+````
+
+### 2. Install Dependencies
+
+```bash
 npm install
-npm run dev
 ```
+
+### 3. Start the Dev Server
+
+```bash
+npm run server
+```
+
+Visit [http://localhost:5173](http://localhost:5173) to explore the app!
+
+---
+
+## 🧠 Use Cases
+
+- UI/UX Prototyping
+- Learning Client-Side Routing and App Structure
+- Frontend Practice for Beginners
+- Template Base for Full-Stack Projects
+
+---
+
+## 📌 Future Ideas (Optional)
+
+If you'd like to expand this into a full-stack app, consider adding:
+
+- ✅ Backend (Node.js + Express or Remix/Next)
+- ✅ Database (MongoDB, PostgreSQL, Firebase)
+- ✅ Auth & Sessions
+- ✅ Payment Gateways
+
+---
+
+## 🧑‍💻 Built By
+
+**Eyob Simachew**  
+Frontend Developer & UI Lover ✨  
+[GitHub](https://github.com/Eyob-smax)
+
+---
+
+> 💡 “This template is a great starting point — design meets functionality, just waiting for your backend magic.”
+
+## 🔍 App Preview
+
+### 🏠 Home Page
+
+<img src="./Screenshot/home.png" alt="Home Page" width="700"/>
+
+### 🔐 Login Page
+
+<img src="./Screenshot/login.png" alt="Login Page" width="700"/>
+
+### 🚐 Vans Listing
+
+<img src="./Screenshot/vans.png" alt="Vans Page" width="700"/>
+
+### 📄 Van Detail Page
+
+<img src="./Screenshots/vans_detail.png" alt="Van Detail Page" width="700"/>
+
+### 🧭 Explore Page
+
+<img src="./Screenshots/explore.png" alt="Explore Page" width="700"/>
+
+### 🖼️ UI Highlight
+
+<img src="./Screenshot/image1.png" alt="Design Showcase" width="700"/>
